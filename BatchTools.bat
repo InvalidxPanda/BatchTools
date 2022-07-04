@@ -63,16 +63,4 @@ start https://bit.ly/3bP9oFa
 goto :gui
 
 
-
-
 goto :gui
-
-
-
-
-pause
-
-
-	
-:exit
-exit
